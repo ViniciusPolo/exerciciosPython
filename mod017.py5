@@ -1,0 +1,3 @@
+#
+from math import cos, sin, tan
+angulo (float(input('Digite o ang')))
