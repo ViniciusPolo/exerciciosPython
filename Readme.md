@@ -1,2 +1,3 @@
-*Exercícios em Python
-*****Exercícios propostos pelo professor Gustavo Guanabara
+Exercícios em Python
+
+Exercícios propostos pelo professor Gustavo Guanabara
